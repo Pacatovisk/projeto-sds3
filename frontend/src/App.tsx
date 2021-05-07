@@ -8,7 +8,7 @@ import React from "react";
 function App() {
   return (
       <>
-      <NavBar />
+      <NavBar />cd
       <div className="container">
           <h1 className="text-primary py-3">Dashboard de Vendas</h1>
 
